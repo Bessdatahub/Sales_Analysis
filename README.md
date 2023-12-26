@@ -2,6 +2,7 @@
 
 ![](Home.jpg)
 
+
 # Introduction
 This analysis seeks to derive insights from the sales data in order to evaluate sales performance. The specific objectives are as follows:
 Determine the month with the highest sales revenue.
